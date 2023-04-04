@@ -32,5 +32,6 @@ fun main(args: Array<String>) {
     
     println(reached.size) // print answer to the output
          //-/ Means => How many iterations of f() before reaching a previously reached integer
+         //-/ Means => While HashSet.add() works fine ! (if same value to insert it won't ;)
 }
 
